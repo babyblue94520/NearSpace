@@ -3,3 +3,5 @@
 
 # 共同開發作者
 @ShinyChang
+@jcluoivan
+@voluntariness
